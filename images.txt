@@ -7,5 +7,5 @@
 
 python:3.8
 python:3.6
-centos:7.9
+centos:7.9.2009
 
