@@ -5,7 +5,8 @@
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 
-python:3.8
-python:3.6
-centos:7.9.2009
+#python:3.8
+#python:3.6
+#centos:7.9.2009
+pytorch/pytorch:2.3.1-cuda12.1-cudnn8-runtime
 
