@@ -10,5 +10,5 @@ python:3.8
 #centos:7.9.2009
 #pytorch/pytorch:2.3.1-cuda12.1-cudnn8-runtime
 
-node
+python:3.10-bullseye
 
