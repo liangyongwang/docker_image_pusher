@@ -10,5 +10,6 @@ python:3.8
 #centos:7.9.2009
 #pytorch/pytorch:2.3.1-cuda12.1-cudnn8-runtime
 
-python:3.10-bullseye
+#python:3.10-bullseye
+tugraph/tugraph-runtime-centos7:4.0.1
 
