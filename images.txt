@@ -5,11 +5,11 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-python:3.8
+#python:3.8
 #python:3.6
 #centos:7.9.2009
 #pytorch/pytorch:2.3.1-cuda12.1-cudnn8-runtime
 
 #python:3.10-bullseye
-tugraph/tugraph-runtime-centos7:4.0.1
-
+#tugraph/tugraph-runtime-centos7:4.0.1
+easzlab/kubeasz
