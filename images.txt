@@ -4,7 +4,7 @@
 # xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-semitechnologies/weaviate:latest
+# semitechnologies/weaviate:latest
 #python:3.8
 #python:3.6
 #centos:7.9.2009
@@ -43,4 +43,7 @@ semitechnologies/weaviate:latest
 #easzlab/nfs-subdir-external-provisioner:v4.0.2
 #registry:2
 #easzlab/kubeasz:3.6.4
-apachecn0/flygon-zhuanqian-zhoubao-2023
+#apachecn0/flygon-zhuanqian-zhoubao-2023
+pasteme/frontend:3.4.2
+pasteme/go-backend:3.5.2
+mysql:5.5
