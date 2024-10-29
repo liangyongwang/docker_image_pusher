@@ -44,6 +44,7 @@
 #registry:2
 #easzlab/kubeasz:3.6.4
 #apachecn0/flygon-zhuanqian-zhoubao-2023
-pasteme/frontend:3.4.2
-pasteme/go-backend:3.5.2
-mysql:5.5
+#pasteme/frontend:3.4.2
+#pasteme/go-backend:3.5.2
+#mysql:5.5
+ubuntu:18.04
