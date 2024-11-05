@@ -49,3 +49,5 @@
 #mysql:5.5
 #ubuntu:18.04
 kubeoperator/metrics-server:v0.5.0
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
