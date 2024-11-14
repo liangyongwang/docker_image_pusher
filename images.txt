@@ -2,6 +2,9 @@
 #支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
+# python:3.8.20-bullseye
+--platform=linux/arm64  python:3.8.20-bullseye
+
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # semitechnologies/weaviate:latest
@@ -48,6 +51,6 @@
 #pasteme/go-backend:3.5.2
 #mysql:5.5
 #ubuntu:18.04
-kubeoperator/metrics-server:v0.5.0
-kubernetesui/dashboard:v2.7.0
-kubernetesui/metrics-scraper:v1.0.8
+#kubeoperator/metrics-server:v0.5.0
+#kubernetesui/dashboard:v2.7.0
+#kubernetesui/metrics-scraper:v1.0.8
