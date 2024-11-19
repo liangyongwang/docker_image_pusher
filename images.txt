@@ -4,7 +4,8 @@
 # xhofe/alist:latest
 # python:3.8.20-bullseye
 #--platform=linux/arm64  python:3.8.20-bullseye
---platform=linux/arm64  python:3.10.15-bullseye
+#--platform=linux/arm64  python:3.10.15-bullseye
+--platform=linux/arm64  python:3.7.17-bullseye
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 # semitechnologies/weaviate:latest
