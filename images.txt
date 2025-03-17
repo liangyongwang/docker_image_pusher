@@ -1,1 +1,1 @@
-zhayujie/chatgpt-on-wechat
+minio/minio:RELEASE.2023-08-04T17-40-21Z
